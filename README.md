@@ -21,7 +21,8 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
 
 # Link útil
 
-1. https://aka.ms/ai900-azure-openai
-2. https://aka.ms/ai900-content-filters
+1. https://aka.ms/ai900-bing-copilot
+2. https://aka.ms/ai900-azure-openai
+3. https://aka.ms/ai900-content-filters
 
 # Crie um arquivo readme.md descrevendo o passo a passo para se configurar uma pesquisa, assim como seus insights, possibilidades de ferramentas que se beneficiam com esse tipo de ferramenta e aprendizados adquiridos durante o processo.
