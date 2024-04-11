@@ -19,7 +19,7 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
 4. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
 5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
 
-# Link útil
+# Links úteis
 
 1. https://aka.ms/ai900-bing-copilot
 2. https://aka.ms/ai900-azure-openai
